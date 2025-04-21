@@ -22,7 +22,7 @@ This project provides a simple JavaScript snippet that downloads YouTube transcr
 
 1. Navigate to the YouTube video page (where the `ytplayer` object is available).
 2. Open your web browser's JavaScript console by accessing the Developer Tools. On most browsers, right-click anywhere on the page and select "Inspect" or "Inspect Element," then navigate to the "Console" tab. Alternatively, you can typically press F12 or Ctrl+Shift+i to open the Developer Tools directly.
-3. Paste the complete code into the console and press Enter.
+3. Paste the [complete code](./youtube-transcript-downloader.js) into the console and press Enter.
 4. To download the transcript, in the console, enter one of the following commands and press Enter:
    - `yttd.getVTT()` for a WebVTT file.
    - `yttd.getSRT()` for an SRT file.
